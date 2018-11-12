@@ -8,4 +8,4 @@ var greetSpecialGuest = "Hello," + " " + specialGuest + "!";
 //+ " " + "Let's talk about space" + " " + "Let's talk about space"+ " " + "Let's talk about space" + "Let's talk about space......";
 var topic = "space";
 
-var conversation = `${topic}`;
+var conversation = "Let's talk about" + " " + topic + ".";
